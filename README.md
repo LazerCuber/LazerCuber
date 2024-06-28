@@ -5,6 +5,6 @@
 
 - Working with my Bro [CreonC](https://github.com/CreonC)
   
-<p align="center">
-  ![me](https://github.com/LazerCuber/gif/blob/main/e5bd3a2f2cf2f6f4dad0f531b92564be.gif)
-</p>
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/LazerCuber/gif/main/e5bd3a2f2cf2f6f4dad0f531b92564be.gif" alt="My GIF">
+</div>
