@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm LTC</h1>
-<h3 align="center">I optimize things and create less cool frontends</h3>
+<h3 align="center">I optimize things to make them slightly better and fix bad (maybe good) frontends</h3>
 
 - I’m currently working on **L.AI**
 
