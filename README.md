@@ -5,6 +5,16 @@
 - I’m currently working on **CL.AI**
 - Working with my Bro [CreonC](https://github.com/CreonC)
 
- /\_/\  
-( o.o ) 
- > ^ <
+```
+           /\     /\
+          {  `---'  }
+          {  O   O  }
+          ~~>  V  <~~
+           \ \|/ /
+            `-----'____
+            /     \    \_
+           {       }\  )_\
+           |  \_/  ) / /
+            \__/  /(_/ 
+              (__/
+```
