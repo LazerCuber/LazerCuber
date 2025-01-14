@@ -18,3 +18,9 @@
             \__/  /(_/ 
               (__/
 ```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazerCuber&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LazerCuber&show_icons=true&theme=radical)
+
+Thanks for stopping by!
