@@ -19,6 +19,4 @@
               (__/
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LazerCuber&show_icons=true&theme=radical)
-
 Thanks for stopping by!
