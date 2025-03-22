@@ -20,7 +20,7 @@ I'm also the co-founder of [Blueprint AI](https://github.com/blueprint-ai-hq) an
 I wield a variety of technologies to bring ideas to life:
 
 *   **Frontend:** 🎨 `React`, `TypeScript`, `Tailwind CSS`
-*   **Backend:** ⚙️ `Node.js`, `Python`, `AI Integration`
+*   **Backend:** ⚙️ `Node.js`, `Python`, `Go`
 *   **Optimization:** ⚡ `Performance Tuning`, `Code Refactoring`
 *   **Tools:** 🛠️ `Git`, `VS Code`, `Docker`
 *   **Current Focus:** ✨ `AI Integration in Web Applications`
