@@ -25,4 +25,4 @@ I wield a variety of technologies to bring ideas to life:
 *   **Tools:** 🛠️ `Git`, `VS Code`, `Docker`
 *   **Current Focus:** ✨ `AI Integration in Web Applications`
 
-Feel free to reach out and connect! I'm always open to discussing exciting opportunities, collaborations, and the future of frontend development.
+Feel free to reach out and connect! I'm always open to discussing exciting opportunities, collaborations, and the future of frontend development!
